@@ -20,7 +20,7 @@ body {
   */
 
 
-  background-image: url('http://i.imgur.com/BiSmXaq.png'), url('http://i.imgur.com/XHuy0NJ.png'), url('http://i.imgur.com/okpRxJU.png');
+  background-image: url('img/SnowflakesBackground1.png'), url('img/SnowflakesBackground2.png'), url('img/SnowflakesBackground3.png');
   -webkit-animation: snow 20s linear infinite;
   -moz-animation: snow 20s linear infinite;
   -ms-animation: snow 20s linear infinite;
